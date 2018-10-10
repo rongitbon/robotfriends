@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Monoton';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Monoton'), url('./fonts/Monoton-Regular.ttf') format('truetype');
+}
+
+h1 {
+	font-family: 'Monoton';
+	font-weight:  200;
+	color: #0ccac4 ;
+}
